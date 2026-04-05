@@ -27,18 +27,18 @@ Handled specific MongoDB/Mongoose errors:
 # Frontend (React)
 # Features Implemented:
 Intern List Page:
-    - Stunning table displaying name, email, role, status, and score.
-    - Dynamic search (by name/email) and role/status filtering.
-    - Responsive pagination system with page indicators.
+     Stunning table displaying name, email, role, status, and score.
+     Dynamic search (by name/email) and role/status filtering.
+     Responsive pagination system with page indicators.
 Add Intern Form:
-    - Polished modal form with field-level validation.
-    - Automatic list refresh upon successful creation.
+     Polished modal form with field-level validation.
+     Automatic list refresh upon successful creation.
 Edit Intern Form:
-    - Contextual editing modal with pre-populated data.
-    - Updates refresh the dashboard data instantly.
+     Contextual editing modal with pre-populated data.
+     Updates refresh the dashboard data instantly.
 Delete Intern:
-    - Confirmation dialog before deletion to prevent accidents.
-    - Immediate list update after successful deletion.
+     Confirmation dialog before deletion to prevent accidents.
+     Immediate list update after successful deletion.
 
 # UX Features:
 Loading States: Shimmer effect/skeleton rows during API fetches.
